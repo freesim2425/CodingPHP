@@ -13,4 +13,4 @@ function showNumber(){// local
 ShowNumber(); // เรียกใช้ฟังก์ชั่น showNumber
 print("ตัวแปร x".$x."<br>"); // เรียกค่าใน local ออกมาแสดง
 print("&copy ตัวแปร z".$z); // เรียกตัวแปร z ที่อยู่ในฟังก์ชั่น showNumber 
-?>
+?> 
